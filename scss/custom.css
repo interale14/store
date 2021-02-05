@@ -1,0 +1,121 @@
+.logo_text {
+    font-family: 'Racing Sans One', cursive;
+    font-size: 1.8rem;
+}
+
+.section_text {
+    color: #1E1E1E;
+    font-size: 1.1em;
+}
+
+.section_text:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.backg_white {
+    background-color: #F6F6F6;
+}
+
+.backg_black {
+    background-color: #000;
+}
+
+.cblack {
+    color: #000;
+}
+
+.orbit-previous:hover, .orbit-next:hover, footer div p {
+    color: #F6F6F6;
+}
+
+.card_height {
+    height: 80px;
+}
+
+.card_text_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+.price_margin {
+    margin: 0.3em;
+}
+
+.pmv-margin {
+    margin: 0em 0.5em;
+}
+
+.lifestyle_title {
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+    text-align: start;
+}
+
+.running_title {
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 2.5rem;
+    text-align: start;
+}
+
+.basketball_title {
+    font-family: 'Contrail One', cursive;
+    font-size: 2.5rem;
+    text-align: start;
+}
+
+.sb_title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.5rem;
+    text-align: start;
+}
+
+.text_column {
+    display: flex;
+    flex-direction: column;
+}
+
+.link_style {
+    display: flex;
+    align-self: flex-end;
+    padding: 0.3rem;
+}
+
+.link {
+    color: #1E1E1E;
+    font-size: 1.2rem;
+}
+
+.link p {
+    padding: 0%;
+    margin: 0%;
+}
+
+.link:hover {
+    color: #000;
+    text-decoration: underline;
+    transition: text-decoration 5s;
+}
+
+.subtitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.text_padding {
+    padding: 1em;
+    padding-left: 0em;
+}
+
+.img_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer div {
+    margin: 0%;
+    padding: 1rem;
+}
